@@ -6,3 +6,7 @@ HOW TO BOOTSTRAP AROUND THE APP
 4. To access these social networks, you just click the respective icons
 5. More information can also be retrieved by clicking the "Get Resume" Button which allows you to download my resume.
 6. The app will respond based on screen type and is responsive.
+
+
+Link to deployed version:
+https://portfolio-eight-green-92.vercel.app/
